@@ -1,0 +1,14 @@
+numpy
+matplotlib
+pandas
+tqdm
+Pillow
+imagehash
+scikit-learn
+torch
+torchvision
+timm
+albumentations
+ttach
+opencv-python
+jupyter
